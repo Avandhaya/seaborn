@@ -3,7 +3,7 @@
 --------------------------------------
 
 seaborn: statistical data visualization
-=======================================
+#=======================================
 
 [![PyPI Version](https://img.shields.io/pypi/v/seaborn.svg)](https://pypi.org/project/seaborn/)
 [![License](https://img.shields.io/pypi/l/seaborn.svg)](https://github.com/mwaskom/seaborn/blob/master/LICENSE)
